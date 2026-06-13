@@ -1,38 +1,167 @@
-.App {
-  text-align: center;
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Segoe UI',sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background:#f8f8f8;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* NAVBAR */
+
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 60px;
+  background:#000;
+  color:#d4af37;
+  position:sticky;
+  top:0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.navbar ul{
+  display:flex;
+  gap:25px;
+  list-style:none;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar li{
+  cursor:pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* HERO */
+
+.hero{
+  height:100vh;
+  background:linear-gradient(135deg,#000,#1a1a1a,#333);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+}
+
+.hero-content{
+  color:white;
+  max-width:700px;
+  padding:40px;
+}
+
+.hero-content h1{
+  font-size:70px;
+  color:#d4af37;
+  margin-bottom:20px;
+}
+
+.hero-content p{
+  font-size:20px;
+  line-height:1.8;
+}
+
+.hero-content button{
+  margin-top:30px;
+  padding:15px 35px;
+  border:none;
+  background:#d4af37;
+  color:black;
+  font-size:18px;
+  cursor:pointer;
+  border-radius:5px;
+  font-weight:bold;
+}
+
+/* PRODUCTS */
+
+.products{
+  padding:80px 50px;
+  text-align:center;
+}
+
+.products h2{
+  font-size:40px;
+  margin-bottom:40px;
+}
+
+.product-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+
+.card{
+  background:white;
+  border-radius:15px;
+  padding:20px;
+  box-shadow:0 5px 20px rgba(0,0,0,.15);
+}
+
+.card img{
+  width:100%;
+  height:250px;
+  object-fit:cover;
+  border-radius:10px;
+}
+
+.card h3{
+  margin-top:15px;
+}
+
+.card p{
+  margin-top:10px;
+  color:#d4af37;
+  font-weight:bold;
+}
+
+.card button{
+  margin-top:15px;
+  padding:10px 20px;
+  border:none;
+  background:black;
+  color:white;
+  cursor:pointer;
+}
+
+/* DISCOUNT */
+
+.discount{
+  background:black;
+  color:#d4af37;
+  text-align:center;
+  padding:100px 20px;
+}
+
+.discount h1{
+  font-size:80px;
+}
+
+.discount h2{
+  margin-bottom:15px;
+}
+
+/* TESTIMONIALS */
+
+.testimonials{
+  padding:80px 30px;
+  text-align:center;
+}
+
+.testimonials h2{
+  margin-bottom:30px;
+}
+
+.review{
+  max-width:700px;
+  margin:auto;
+  font-size:20px;
+}
+
+/* FOOTER */
+
+footer{
+  background:#111;
+  color:white;
+  text-align:center;
+  padding:40px;
 }
