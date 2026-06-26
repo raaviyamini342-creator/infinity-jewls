@@ -1,7 +1,7 @@
 import React, { useState, useContext, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
-import { Mail, Lock, AlertCircle, Loader } from 'lucide-react';
+import { Mail, Lock, AlertCircle } from 'lucide-react';
 
 function Login() {
   const [email, setEmail] = useState('');

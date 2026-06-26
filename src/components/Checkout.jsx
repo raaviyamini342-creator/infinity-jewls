@@ -1,12 +1,11 @@
 import React, { useState, useContext } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { CartContext } from '../context/CartContext';
 import { API_URL } from '../config';
 import { CreditCard, CheckCircle, AlertCircle, MapPin, Phone, User, MessageSquare } from 'lucide-react';
 
 function Checkout() {
   const { cartItems, cartTotal, clearCart } = useContext(CartContext);
-  const navigate = useNavigate();
 
   // Form fields
   const [name, setName] = useState('');

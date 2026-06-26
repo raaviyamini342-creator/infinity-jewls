@@ -41,7 +41,7 @@ const collectionsList = [
 
 function Discounts() {
   const [current, setCurrent] = useState(0);
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [, setSearchParams] = useSearchParams();
 
   // Autoplay slider
   useEffect(() => {
