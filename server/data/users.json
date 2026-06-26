@@ -1,0 +1,20 @@
+[
+  {
+    "id": "9ksm8xo6gmqurzz5l",
+    "createdAt": "2026-06-26T10:16:04.281Z",
+    "updatedAt": "2026-06-26T10:16:04.281Z",
+    "name": "Admin User",
+    "email": "admin@infinityjewls.com",
+    "password": "$2a$10$4n2nmxpH8Xb5AwCKrrhWeOtzPUjxpZtl1rmMri5n7oYcr8ekSRr22",
+    "role": "admin"
+  },
+  {
+    "id": "oudoaurrsmqurzz5q",
+    "createdAt": "2026-06-26T10:16:04.286Z",
+    "updatedAt": "2026-06-26T10:16:04.287Z",
+    "name": "Jane Doe",
+    "email": "user@infinityjewls.com",
+    "password": "$2a$10$4n2nmxpH8Xb5AwCKrrhWeODYb4JDcKJRiG8QI1btnRtnEFNL9pyFC",
+    "role": "user"
+  }
+]

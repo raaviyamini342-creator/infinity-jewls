@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r9fud3mq5mqutebyn",
+    "createdAt": "2026-06-26T10:55:13.680Z",
+    "updatedAt": "2026-06-26T10:55:13.680Z",
+    "name": "kspk",
+    "email": "test@gmail.com",
+    "subject": "hello",
+    "message": "nlxsxklnds",
+    "read": false
+  },
+  {
+    "id": "hqrihmp5rmquti15g",
+    "createdAt": "2026-06-26T10:58:06.292Z",
+    "updatedAt": "2026-06-26T10:58:06.292Z",
+    "name": "kkkkk",
+    "email": "test@123gmail.com",
+    "subject": "jkjkkj",
+    "message": " mm mnm,",
+    "read": false
+  },
+  {
+    "id": "nabtmnanxmqutk2td",
+    "createdAt": "2026-06-26T10:59:41.761Z",
+    "updatedAt": "2026-06-26T10:59:41.761Z",
+    "name": "11111",
+    "email": "test@gmail.com",
+    "subject": "kladsklas",
+    "message": "sxm, sa,m",
+    "read": false
+  }
+]

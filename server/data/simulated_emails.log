@@ -1,0 +1,95 @@
+
+========================================
+[2026-06-26T10:20:10.880Z] EMAIL STATUS: SIMULATED (No SMTP Configured)
+From: "Infinity Jewls" <noreply@infinityjewls.com>
+To: user@infinityjewls.com
+Subject: Order Confirmed - Infinity Jewls (Order #6v11y268nmqus59fd)
+----------------------------------------
+TEXT CONTENT:
+Thank you for your order, Jane Doe! Order Details:
+- Classic Diamond Engagement Ring x1: $2499.00
+Total: $2499.00
+Shipping Address: 123 Golden Lane, Los Angeles, CA, ZIP: 90001, 555-987-6543
+========================================
+
+
+========================================
+[2026-06-26T10:46:40.310Z] EMAIL STATUS: SIMULATED (No SMTP Configured)
+From: "Infinity Jewls" <noreply@infinityjewls.com>
+To: admin@infinityjewls.com
+Subject: New Order Booked - Infinity Jewls (Order #d9t8vy5cumqut3bud)
+----------------------------------------
+TEXT CONTENT:
+New guest order placed by parghnsh (5555555555)! Order Details:
+- Classic Diamond Engagement Ring x1: $2499.00
+Total: $2499.00
+Shipping Address: vskp
+========================================
+
+
+========================================
+[2026-06-26T10:47:50.192Z] EMAIL STATUS: SIMULATED (No SMTP Configured)
+From: "Infinity Jewls" <noreply@infinityjewls.com>
+To: admin@infinityjewls.com
+Subject: New Order Booked - Infinity Jewls (Order #atoj667ximqut4tri)
+----------------------------------------
+TEXT CONTENT:
+New guest order placed by kspk (8888888888)! Order Details:
+- Classic Diamond Engagement Ring x1: $2499.00
+- Infinity Gold Pendant Necklace x2: $1798.00
+- Royal Sapphire Tennis Bracelet x1: $3499.00
+Total: $7796.00
+Shipping Address: akkeyapalem
+========================================
+
+
+========================================
+[2026-06-26T10:55:13.686Z] EMAIL STATUS: SIMULATED (No SMTP Configured)
+From: "Infinity Jewls" <noreply@infinityjewls.com>
+To: admin@infinityjewls.com
+Subject: New Contact Form Submission: "hello"
+----------------------------------------
+TEXT CONTENT:
+You received a new message on Infinity Jewls contact form:
+
+From: kspk (test@gmail.com)
+Subject: hello
+
+Message:
+nlxsxklnds
+========================================
+
+
+========================================
+[2026-06-26T10:58:06.299Z] EMAIL STATUS: SIMULATED (No SMTP Configured)
+From: "Infinity Jewls" <noreply@infinityjewls.com>
+To: admin@infinityjewls.com
+Subject: New Contact Form Submission: "jkjkkj"
+----------------------------------------
+TEXT CONTENT:
+You received a new message on Infinity Jewls contact form:
+
+From: kkkkk (test@123gmail.com)
+Subject: jkjkkj
+
+Message:
+ mm mnm,
+========================================
+
+
+========================================
+[2026-06-26T10:59:41.775Z] EMAIL STATUS: SIMULATED (No SMTP Configured)
+From: "Infinity Jewls" <noreply@infinityjewls.com>
+To: admin@infinityjewls.com
+Subject: New Contact Form Submission: "kladsklas"
+----------------------------------------
+TEXT CONTENT:
+You received a new message on Infinity Jewls contact form:
+
+From: 11111 (test@gmail.com)
+Subject: kladsklas
+
+Message:
+sxm, sa,m
+========================================
+

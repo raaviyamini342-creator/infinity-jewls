@@ -1,0 +1,88 @@
+[
+  {
+    "id": "6v11y268nmqus59fd",
+    "createdAt": "2026-06-26T10:20:10.873Z",
+    "updatedAt": "2026-06-26T10:20:10.873Z",
+    "userId": "oudoaurrsmqurzz5q",
+    "userName": "Jane Doe",
+    "userEmail": "user@infinityjewls.com",
+    "items": [
+      {
+        "productId": "f8ercga40mqurzz5u",
+        "name": "Classic Diamond Engagement Ring",
+        "price": 2499,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=600"
+      }
+    ],
+    "shippingAddress": {
+      "address": "123 Golden Lane",
+      "city": "Los Angeles, CA, ZIP: 90001",
+      "phone": "555-987-6543"
+    },
+    "totalPrice": 2499,
+    "status": "Pending"
+  },
+  {
+    "id": "d9t8vy5cumqut3bud",
+    "createdAt": "2026-06-26T10:46:40.309Z",
+    "updatedAt": "2026-06-26T10:46:40.309Z",
+    "userId": "guest",
+    "userName": "parghnsh",
+    "userPhone": "5555555555",
+    "userEmail": "",
+    "items": [
+      {
+        "productId": "f8ercga40mqurzz5u",
+        "name": "Classic Diamond Engagement Ring",
+        "price": 2499,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=600"
+      }
+    ],
+    "shippingAddress": {
+      "address": "vskp",
+      "phone": "5555555555"
+    },
+    "totalPrice": 2499,
+    "status": "Pending"
+  },
+  {
+    "id": "atoj667ximqut4tri",
+    "createdAt": "2026-06-26T10:47:50.190Z",
+    "updatedAt": "2026-06-26T10:47:50.190Z",
+    "userId": "guest",
+    "userName": "kspk",
+    "userPhone": "8888888888",
+    "userEmail": "",
+    "items": [
+      {
+        "productId": "f8ercga40mqurzz5u",
+        "name": "Classic Diamond Engagement Ring",
+        "price": 2499,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "productId": "7wvc6jw1mmqurzz5w",
+        "name": "Infinity Gold Pendant Necklace",
+        "price": 899,
+        "quantity": 2,
+        "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "productId": "wai403e1gmqurzz5y",
+        "name": "Royal Sapphire Tennis Bracelet",
+        "price": 3499,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=600"
+      }
+    ],
+    "shippingAddress": {
+      "address": "akkeyapalem",
+      "phone": "8888888888"
+    },
+    "totalPrice": 7796,
+    "status": "Pending"
+  }
+]
